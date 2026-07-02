@@ -15,7 +15,8 @@ Out of **18,000+ teams** worldwide:
 | Algorithmic | #3178 |
 | Country | #227 |
 
-**Team total: 448,174 seashells.**
+**Team total: 448,174 seashells** (cumulative across **rounds 1 + 2**), against a
+required threshold of **200,000** — **~2.24× the target**.
 
 ---
 
@@ -178,4 +179,4 @@ reference), and can be evaluated locally through the backtester.
 
 ---
 
-<sub>IMC Prosperity 4 · Team HEISENBURGERS · #6 global manual, #1016 overall of 18,000+ teams.</sub>
+<sub>IMC Prosperity 4 · Team HEISENBURGERS · #6 global manual, #1016 overall of 18,000+ teams · 448,174 seashells across rounds 1+2 (2.24× the 200k threshold).</sub>
