@@ -142,10 +142,13 @@ Our real Round-2 strategy is ported verbatim as
 
 ```
 IMC_Prosperity_4_HeisenBurgers/
-├── submissions/
+├── submissions/                  # the two final, promoted algorithms
 │   ├── datamodel.py              # IMC-provided trading data model (for reference/runnability)
 │   ├── round1/round1_final.py    # AR(2) + mean-reversion + adaptive maker
 │   └── round2/round2_final.py    # Kalman + Bayesian + OFI hybrid
+├── iterations/                   # raw dev trail (filenames = backtest PnL) — the grind
+│   ├── round1/                   # 38-file Osmium/Pepper research trail + param sweeps
+│   └── round2/                   # Round-2 exploration + price-analysis notebook
 └── backtester/                   # from-scratch LOB backtester + research framework
     ├── README.md
     ├── pqlab/                    # engine, metrics, optimiser, montecarlo, analytics

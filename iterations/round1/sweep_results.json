@@ -1,0 +1,134 @@
+[
+    {
+        "params": {
+            "SWEEP_DIV": 20.0,
+            "SWEEP_POW": 1.5,
+            "SWEEP_LR": 0.04,
+            "SWEEP_INV": 0.03,
+            "SWEEP_BB_ALPHA": 0.5,
+            "SWEEP_BB_THRESH": 2.0
+        },
+        "pnl": 0.0
+    },
+    {
+        "params": {
+            "SWEEP_DIV": 20.0,
+            "SWEEP_POW": 2.0,
+            "SWEEP_LR": 0.04,
+            "SWEEP_INV": 0.03,
+            "SWEEP_BB_ALPHA": 0.5,
+            "SWEEP_BB_THRESH": 2.0
+        },
+        "pnl": 0.0
+    },
+    {
+        "params": {
+            "SWEEP_DIV": 20.0,
+            "SWEEP_POW": 2.5,
+            "SWEEP_LR": 0.04,
+            "SWEEP_INV": 0.03,
+            "SWEEP_BB_ALPHA": 0.5,
+            "SWEEP_BB_THRESH": 2.0
+        },
+        "pnl": 0.0
+    },
+    {
+        "params": {
+            "SWEEP_DIV": 25.0,
+            "SWEEP_POW": 1.5,
+            "SWEEP_LR": 0.04,
+            "SWEEP_INV": 0.03,
+            "SWEEP_BB_ALPHA": 0.5,
+            "SWEEP_BB_THRESH": 2.0
+        },
+        "pnl": 0.0
+    },
+    {
+        "params": {
+            "SWEEP_DIV": 25.0,
+            "SWEEP_POW": 2.0,
+            "SWEEP_LR": 0.04,
+            "SWEEP_INV": 0.03,
+            "SWEEP_BB_ALPHA": 0.5,
+            "SWEEP_BB_THRESH": 2.0
+        },
+        "pnl": 0.0
+    },
+    {
+        "params": {
+            "SWEEP_DIV": 25.0,
+            "SWEEP_POW": 2.5,
+            "SWEEP_LR": 0.04,
+            "SWEEP_INV": 0.03,
+            "SWEEP_BB_ALPHA": 0.5,
+            "SWEEP_BB_THRESH": 2.0
+        },
+        "pnl": 0.0
+    },
+    {
+        "params": {
+            "SWEEP_DIV": 30.0,
+            "SWEEP_POW": 1.5,
+            "SWEEP_LR": 0.04,
+            "SWEEP_INV": 0.03,
+            "SWEEP_BB_ALPHA": 0.5,
+            "SWEEP_BB_THRESH": 2.0
+        },
+        "pnl": 0.0
+    },
+    {
+        "params": {
+            "SWEEP_DIV": 30.0,
+            "SWEEP_POW": 2.0,
+            "SWEEP_LR": 0.04,
+            "SWEEP_INV": 0.03,
+            "SWEEP_BB_ALPHA": 0.5,
+            "SWEEP_BB_THRESH": 2.0
+        },
+        "pnl": 0.0
+    },
+    {
+        "params": {
+            "SWEEP_DIV": 30.0,
+            "SWEEP_POW": 2.5,
+            "SWEEP_LR": 0.04,
+            "SWEEP_INV": 0.03,
+            "SWEEP_BB_ALPHA": 0.5,
+            "SWEEP_BB_THRESH": 2.0
+        },
+        "pnl": 0.0
+    },
+    {
+        "params": {
+            "SWEEP_DIV": 35.0,
+            "SWEEP_POW": 1.5,
+            "SWEEP_LR": 0.04,
+            "SWEEP_INV": 0.03,
+            "SWEEP_BB_ALPHA": 0.5,
+            "SWEEP_BB_THRESH": 2.0
+        },
+        "pnl": 0.0
+    },
+    {
+        "params": {
+            "SWEEP_DIV": 35.0,
+            "SWEEP_POW": 2.0,
+            "SWEEP_LR": 0.04,
+            "SWEEP_INV": 0.03,
+            "SWEEP_BB_ALPHA": 0.5,
+            "SWEEP_BB_THRESH": 2.0
+        },
+        "pnl": 0.0
+    },
+    {
+        "params": {
+            "SWEEP_DIV": 35.0,
+            "SWEEP_POW": 2.5,
+            "SWEEP_LR": 0.04,
+            "SWEEP_INV": 0.03,
+            "SWEEP_BB_ALPHA": 0.5,
+            "SWEEP_BB_THRESH": 2.0
+        },
+        "pnl": 0.0
+    }
+]
