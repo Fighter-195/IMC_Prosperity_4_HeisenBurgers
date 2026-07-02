@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+
+# generated backtester outputs
+backtester/results/*.png
+backtester/results/*.csv
+backtester/results/REPORT.md

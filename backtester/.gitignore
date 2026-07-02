@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+
+# generated outputs (keep the folder, ignore artifacts)
+results/*.png
+results/*.csv
+results/REPORT.md
