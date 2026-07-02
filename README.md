@@ -18,6 +18,9 @@ Out of **18,000+ teams** worldwide:
 **Team total: 448,174 seashells** (cumulative across **rounds 1 + 2**), against a
 required threshold of **200,000** — **~2.24× the target**.
 
+The standout **#6 global Manual** placement came from the capital-allocation
+optimization detailed in [`manual/`](manual/README.md).
+
 ---
 
 ## The competition
@@ -143,6 +146,7 @@ Our real Round-2 strategy is ported verbatim as
 
 ```
 IMC_Prosperity_4_HeisenBurgers/
+├── manual/                       # #6-global manual round: capital-allocation optimization writeup
 ├── submissions/                  # the two final, promoted algorithms
 │   ├── datamodel.py              # IMC-provided trading data model (for reference/runnability)
 │   ├── round1/round1_final.py    # AR(2) + mean-reversion + adaptive maker
