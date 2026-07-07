@@ -4,7 +4,7 @@ Algorithmic + manual trading strategies for **IMC Prosperity 4**, a global
 quantitative trading competition, together with a **from-scratch limit-order-book
 backtester** built afterwards to validate the algorithms offline.
 
-## 🏆 Final results
+## 🏆 Final results(Round 2)
 
 Out of **18,000+ teams** worldwide:
 
